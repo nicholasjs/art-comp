@@ -5,8 +5,10 @@ I aimed to complete within the suggested 2 hours. Also given my own time constra
 If I had more time, I would've liked to:
 1. use recoil as state mgmt. 
 2. spend more time on design. particularly spacing, animations, responsiveness, color, font, spinner/loading state, etc. to name a few. 
-3. I added monthly_volume to the data (in useFetchData) but haven't gotten it to show in the tooltip. interested in seeing what else we could've done with the data to improve visibility, analytics, etc. 
-4. generalize components and improve custom hooks so they're both more reusable and more fine tuned (e.g. build a loading state into the hook instead). 
+3. I added monthly_volume to the data (in useFetchData) but haven't gotten it to show in the tooltip. interested in seeing what else we could've done with the data (added further urrencies, averages, etc.) to improve visibility, analytics, etc. 
+4. generalize components and improve custom hooks so they're both more reusable and more fine tuned (e.g. build a loading state into the hook instead).
+5. add downloadable csv
+
 
 
 # Getting Started with Create React App
